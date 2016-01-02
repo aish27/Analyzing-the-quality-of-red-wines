@@ -1,0 +1,5 @@
+References:
+1. http://www.r-bloggers.com/ - Several parts of the documentation
+2. http://stackoverflow.com/ - Several discussions
+3. https://cran.rstudio.com/web/packages/IPSUR/vignettes/IPSUR.pdf
+4. http://www.ats.ucla.edu/stat/r/faq/smooths.htm
