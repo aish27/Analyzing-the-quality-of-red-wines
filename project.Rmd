@@ -19,7 +19,7 @@ library(GGally)
 
 ```{r echo=FALSE, Load_the_Data}
 #Load the data
-setwd('C:/Users/Aishwarya/Desktop')
+#setwd('C:/Users/Aishwarya/Desktop')
 pf <- read.csv('WineQualityReds.csv')
 ```
 
